@@ -1,0 +1,733 @@
+1607092704879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP0Hk1q"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607092706136	Marionette	INFO	Listening on port 40363
+1607092706471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607092765787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3pyePZ"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607092767490	Marionette	INFO	Listening on port 45913
+1607092767495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607092816901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXocSzx"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607092818363	Marionette	INFO	Listening on port 45787
+1607092818407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607092883191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet1IIa3"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607092884495	Marionette	INFO	Listening on port 36899
+1607092884884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607092971092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepXmcZC"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607092973020	Marionette	INFO	Listening on port 39269
+1607092973100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607093018095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerClbrj"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607093019379	Marionette	INFO	Listening on port 40331
+1607093019400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607093043286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5G70yV"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607093045045	Marionette	INFO	Listening on port 41929
+1607093045105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607093104243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4i0eWT"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607093105877	Marionette	INFO	Listening on port 46445
+1607093105953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607093117339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq5duSq"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607093119188	Marionette	INFO	Listening on port 45205
+1607093119247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607093307092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW17Tn5"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607093308332	Marionette	INFO	Listening on port 43943
+1607093308679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607093326765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet3cDyF"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607093328658	Marionette	INFO	Listening on port 42629
+1607093328674	Marionette	WARN	TLS certificate errors will be ignored for this session
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50f9290d50 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50f937c800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1607093586266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRloZeI"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607093588094	Marionette	INFO	Listening on port 38767
+1607093588197	Marionette	WARN	TLS certificate errors will be ignored for this session
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad79cf8bf0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad799b3000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1607093690241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebgZUEe"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607093691603	Marionette	INFO	Listening on port 35253
+1607093691663	Marionette	WARN	TLS certificate errors will be ignored for this session
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f493df93ae0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f493df4a400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1607093756356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5tJmaC"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607093758325	Marionette	INFO	Listening on port 46733
+1607093758422	Marionette	WARN	TLS certificate errors will be ignored for this session
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 5553, MediaDecoderStateMachine #1] WARNING: 7f36407ef870 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5553, MediaDecoderStateMachine #1] WARNING: Decoder=7f34ad2e4000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f493df2eae0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f493df4a400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50dc452e20 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50e97df400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi96205576, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi96205576, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi96205576, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi96205576, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi96205576, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi96205576, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50f95948b0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50d5aa1000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50dc453980 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50f937c800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1607094075068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRKD70O"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607094085836	Marionette	INFO	Listening on port 40589
+1607094085979	Marionette	WARN	TLS certificate errors will be ignored for this session
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 7504, MediaDecoderStateMachine #1] WARNING: 7f62fd7eb1f0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7504, MediaDecoderStateMachine #1] WARNING: Decoder=7f6169a11c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1607094108946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRLUyQb"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607094112791	Marionette	INFO	Listening on port 32897
+1607094112798	Marionette	WARN	TLS certificate errors will be ignored for this session
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbc852d22c0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc8617f000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbc7cb3b160 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc7cc3e400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi9178369, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi9178369, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi9178369, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi9178369, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi9178369, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi9178369, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbc85eb07e0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc8617f000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad5c06c090 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad68415800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi37424862, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi37424862, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi37424862, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi37424862, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi37424862, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi37424862, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad5bf8e230 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad5e0e1c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1607094234393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXpM25T"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607094238873	Marionette	INFO	Listening on port 34051
+1607094238924	Marionette	WARN	TLS certificate errors will be ignored for this session
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad54cfd1f0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad799b3000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1607094274487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQr7nU5"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607094279253	Marionette	INFO	Listening on port 42387
+1607094279318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f4941ac68b0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f4927e5c800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi35588408, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi35588408, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi35588408, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi35588408, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi35588408, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi35588408, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f4940ed7530 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f4931003400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f4ad2a04e60 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f493df4a400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 5553, MediaDecoderStateMachine #1] WARNING: 7f3490bbda10 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5553, MediaDecoderStateMachine #1] WARNING: Decoder=7f3632d0c400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi36546503, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi36546503, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi36546503, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi36546503, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi36546503, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi36546503, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Home directory not accessible: Permission denied
+[Child 5553, MediaDecoderStateMachine #1] WARNING: 7f3490bbdfc0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5553, MediaDecoderStateMachine #1] WARNING: Decoder=7f3493db3000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 5553, MediaDecoderStateMachine #1] WARNING: 7f348998a230 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5553, MediaDecoderStateMachine #1] WARNING: Decoder=7f34ad2e4000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1607094462145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIJJ9mE"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607094469327	Marionette	INFO	Listening on port 38537
+1607094469434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607094567649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Z24Jg"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607094573290	Marionette	INFO	Listening on port 36633
+1607094573317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50db938050 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50f180f000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50d61b3710 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50ec2b4400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50d12b4a10 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50f937c800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 7504, MediaDecoderStateMachine #1] WARNING: 7f62eba0f980 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7504, MediaDecoderStateMachine #1] WARNING: Decoder=7f62f6c13000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi61312646, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi61312646, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi61312646, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi61312646, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi61312646, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi61312646, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1607094726573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8IqMUU"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607094729335	Marionette	INFO	Listening on port 46071
+1607094729438	Marionette	WARN	TLS certificate errors will be ignored for this session
+Home directory not accessible: Permission denied
+[Child 7504, MediaDecoderStateMachine #1] WARNING: 7f62f799d710 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7504, MediaDecoderStateMachine #1] WARNING: Decoder=7f61449dd800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7504, MediaDecoderStateMachine #1] WARNING: 7f62f799d710 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7504, MediaDecoderStateMachine #1] WARNING: Decoder=7f6169a11c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbe1a850c80 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbe331e2c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbc68959870 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc652a3000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1607094800984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRpkJQJ"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607094804038	Marionette	INFO	Listening on port 36055
+1607094804099	Marionette	WARN	TLS certificate errors will be ignored for this session
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbc6b1cd8b0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc6851fc00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 12535, MediaDecoderStateMachine #1] WARNING: 7fed19dd9230 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 12535, MediaDecoderStateMachine #1] WARNING: Decoder=7fed1ac40800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbe1a851230 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc8617f000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad7a0c32c0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7faf071e3800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad5c06cd90 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad5f03d400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad5c30ffc0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad799b3000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f491b1d7ae0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f493179f400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f491b23a2c0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f491c810400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f491b23b160 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f493df4a400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 5553, MediaDecoderStateMachine #1] WARNING: 7f3632ece3d0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5553, MediaDecoderStateMachine #1] WARNING: Decoder=7f36400afc00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 5553, MediaDecoderStateMachine #1] WARNING: 7f34913f7390 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5553, MediaDecoderStateMachine #1] WARNING: Decoder=7f3487abcc00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 5553, MediaDecoderStateMachine #1] WARNING: 7f348d4f3940 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5553, MediaDecoderStateMachine #1] WARNING: Decoder=7f3487ab4000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 5553, MediaDecoderStateMachine #1] WARNING: 7f34913f76d0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5553, MediaDecoderStateMachine #1] WARNING: Decoder=7f34ad2e4000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50d557a230 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50e63c8c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50d557a090 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50e63c8800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50db188bf0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50f937c800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 7504, MediaDecoderStateMachine #1] WARNING: 7f62eba0ee20 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7504, MediaDecoderStateMachine #1] WARNING: Decoder=7f615cc04000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7504, MediaDecoderStateMachine #1] WARNING: 7f62eadbb1f0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7504, MediaDecoderStateMachine #1] WARNING: Decoder=7f615a896400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7504, MediaDecoderStateMachine #1] WARNING: 7f6169bae980 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7504, MediaDecoderStateMachine #1] WARNING: Decoder=7f615a897000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7504, MediaDecoderStateMachine #1] WARNING: 7f614308e300 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7504, MediaDecoderStateMachine #1] WARNING: Decoder=7f6169a11c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 12535, MediaDecoderStateMachine #1] WARNING: 7fed03b35d50 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 12535, MediaDecoderStateMachine #1] WARNING: Decoder=7fed1a542c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi5474568, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi5474568, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi5474568, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi5474568, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi5474568, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi5474568, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbc85ece870 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc7cc3b400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 12535, MediaDecoderStateMachine #1] WARNING: 7fed01980940 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 12535, MediaDecoderStateMachine #1] WARNING: Decoder=7fed1ac40800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbc6895a980 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc5e4c6400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbe1a8518b0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc8617f000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad5c310a50 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad7326fc00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad510f9640 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad6092f400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad5adef570 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad799b3000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f491aa75980 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f4927e67000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f493df2f980 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f492e303800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f491b1d7390 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f493df4a400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 5553, MediaDecoderStateMachine #1] WARNING: 7f36407efa10 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5553, MediaDecoderStateMachine #1] WARNING: Decoder=7f34953c5000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAC0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1607095674961	Marionette	INFO	Stopped listening on port 46733
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50d61b2e20 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f528da72000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50d6233160 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50de594c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50db7ab160 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50e8fd6400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f528d91be20 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50f937c800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 7504, MediaDecoderStateMachine #1] WARNING: 7f62eadbcb20 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7504, MediaDecoderStateMachine #1] WARNING: Decoder=7f614e3b0000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7504, MediaDecoderStateMachine #1] WARNING: 7f62eb978bf0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7504, MediaDecoderStateMachine #1] WARNING: Decoder=7f6169a11c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 12535, MediaDecoderStateMachine #1] WARNING: 7fecfc6ae940 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 12535, MediaDecoderStateMachine #1] WARNING: Decoder=7fed14f2a400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 12535, MediaDecoderStateMachine #1] WARNING: 7fecfc6ae6d0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 12535, MediaDecoderStateMachine #1] WARNING: Decoder=7fecf21b4800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbe152e61f0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc850d3000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 12535, MediaDecoderStateMachine #1] WARNING: 7fecf54db2c0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 12535, MediaDecoderStateMachine #1] WARNING: Decoder=7fed1ac40800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbc5fbb7460 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc68522800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbc5fbb8640 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc8617f000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad5c30f390 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad73011800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad4ede7fc0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad6ac71c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad4ede8e60 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad799b3000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f491b23bcc0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f493df56400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f4941ac5390 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f4923c21c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f4940ed76d0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f493df4a400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50d6233f30 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50e8812800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50d75732c0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50e8fd2400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 7504, MediaDecoderStateMachine #1] WARNING: 7f62f797e1f0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7504, MediaDecoderStateMachine #1] WARNING: Decoder=7f6149aae800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50db188160 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50f937c800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7504, MediaDecoderStateMachine #1] WARNING: 7f62f9863cc0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7504, MediaDecoderStateMachine #1] WARNING: Decoder=7f6150d9b800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7504, MediaDecoderStateMachine #1] WARNING: 7f614308d1f0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7504, MediaDecoderStateMachine #1] WARNING: Decoder=7f6169a11c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 12535, MediaDecoderStateMachine #1] WARNING: 7fed1c87c120 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 12535, MediaDecoderStateMachine #1] WARNING: Decoder=7fed14f28800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 12535, MediaDecoderStateMachine #1] WARNING: 7fecf07f0530 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 12535, MediaDecoderStateMachine #1] WARNING: Decoder=7fecffee6c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbe17d15f30 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc7f366800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 12535, MediaDecoderStateMachine #1] WARNING: 7feeafad1160 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 12535, MediaDecoderStateMachine #1] WARNING: Decoder=7fed1ac40800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbe152fc980 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc652a7c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbc5bcfdcc0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc8617f000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad5c3104a0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad73237000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad5adefbf0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad5f041800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad5c310090 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad799b3000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f493df2e390 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f4935158c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f493df2ebb0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f4923c21c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f4ad2a04300 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f493df4a400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50d61b38b0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50e4435400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50d62333d0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50de187800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 7504, MediaDecoderStateMachine #1] WARNING: 7f62fb689120 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7504, MediaDecoderStateMachine #1] WARNING: Decoder=7f61449d2800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7504, MediaDecoderStateMachine #1] WARNING: 7f62fd7ec710 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7504, MediaDecoderStateMachine #1] WARNING: Decoder=7f6169a11c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4074, MediaDecoderStateMachine #1] WARNING: 7f50f92907a0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4074, MediaDecoderStateMachine #1] WARNING: Decoder=7f50f937c800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 12535, MediaDecoderStateMachine #1] WARNING: 7fecfc6af570 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 12535, MediaDecoderStateMachine #1] WARNING: Decoder=7fed0c15ac00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 12535, MediaDecoderStateMachine #1] WARNING: 7fecefc0d2c0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 12535, MediaDecoderStateMachine #1] WARNING: Decoder=7fecf5dfa000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbe17fed3d0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc66a07000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 12535, MediaDecoderStateMachine #1] WARNING: 7fecefc0de20 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 12535, MediaDecoderStateMachine #1] WARNING: Decoder=7fed1ac40800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 7962, MediaDecoderStateMachine #1] WARNING: 7fbc5bcfcc80 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7962, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc8617f000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7faf08ac3710 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7faefc69d400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7faf08ac34a0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad5e0e3800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 4694, MediaDecoderStateMachine #1] WARNING: 7fad4e5a9980 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 4694, MediaDecoderStateMachine #1] WARNING: Decoder=7fad799b3000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1607097506150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWTsC8e"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607097509251	Marionette	INFO	Listening on port 37583
+1607097509297	Marionette	WARN	TLS certificate errors will be ignored for this session
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 24627, MediaDecoderStateMachine #1] WARNING: 7f4dbab1de60 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 24627, MediaDecoderStateMachine #1] WARNING: Decoder=7f4c39966c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f4940ed84a0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f492fd05400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 5117, MediaDecoderStateMachine #1] WARNING: 7f493e581640 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 5117, MediaDecoderStateMachine #1] WARNING: Decoder=7f493df4a400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+1607100192505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepcDMPY"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607100194575	Marionette	INFO	Listening on port 41389
+1607100194638	Marionette	WARN	TLS certificate errors will be ignored for this session
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 883, MediaDecoderStateMachine #1] WARNING: 7f2ff28cd8b0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 883, MediaDecoderStateMachine #1] WARNING: Decoder=7f2ff2baf400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1607100202959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile34UVXw"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607100204850	Marionette	INFO	Listening on port 40429
+1607100204879	Marionette	WARN	TLS certificate errors will be ignored for this session
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 1217, MediaDecoderStateMachine #1] WARNING: 7f176bee88b0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1217, MediaDecoderStateMachine #1] WARNING: Decoder=7f17702b8c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1607100281389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq9o5hC"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607100283610	Marionette	INFO	Listening on port 42287
+1607100283721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607100289956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerLza2o"
+*** You are running in headless mode.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 1640, MediaDecoderStateMachine #1] WARNING: 7f15e2fdc1f0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1640, MediaDecoderStateMachine #1] WARNING: Decoder=7f15e51e1400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607100292666	Marionette	INFO	Listening on port 32995
+1607100292979	Marionette	WARN	TLS certificate errors will be ignored for this session
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 1941, MediaDecoderStateMachine #1] WARNING: 7f142d9b2f30 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1941, MediaDecoderStateMachine #1] WARNING: Decoder=7f142d778400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 883, MediaDecoderStateMachine #1] WARNING: 7f2fd53de7a0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 883, MediaDecoderStateMachine #1] WARNING: Decoder=7f2fedac2c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi1370476, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi1370476, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi1370476, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi1370476, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi1370476, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi1370476, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 1217, MediaDecoderStateMachine #1] WARNING: 7f17532a2570 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1217, MediaDecoderStateMachine #1] WARNING: Decoder=7f17675bc400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi44826808, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi44826808, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi44826808, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi44826808, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi44826808, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi44826808, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Home directory not accessible: Permission denied
+[Child 883, MediaDecoderStateMachine #1] WARNING: 7f2fd5474bf0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 883, MediaDecoderStateMachine #1] WARNING: Decoder=7f2fcf9a7400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 1217, MediaDecoderStateMachine #1] WARNING: 7f17532a2d90 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1217, MediaDecoderStateMachine #1] WARNING: Decoder=7f1755cb8000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 883, MediaDecoderStateMachine #1] WARNING: 7f2fd472e6d0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 883, MediaDecoderStateMachine #1] WARNING: Decoder=7f2ff2baf400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 1217, MediaDecoderStateMachine #1] WARNING: 7f174b5d12c0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1217, MediaDecoderStateMachine #1] WARNING: Decoder=7f17702b8c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 1640, MediaDecoderStateMachine #1] WARNING: 7f15c59b0640 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1640, MediaDecoderStateMachine #1] WARNING: Decoder=7f15ca4d4400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi45322411, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi45322411, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi45322411, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi45322411, line 249: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi45322411, line 249: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-vaes.min.js#_moatApi45322411, line 249: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Home directory not accessible: Permission denied
+[Child 1640, MediaDecoderStateMachine #1] WARNING: 7f15bdfc1300 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1640, MediaDecoderStateMachine #1] WARNING: Decoder=7f15c92c6c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 1640, MediaDecoderStateMachine #1] WARNING: 7f15c4036530 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1640, MediaDecoderStateMachine #1] WARNING: Decoder=7f15e51e1400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 883, MediaDecoderStateMachine #1] WARNING: 7f3176c23980 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 883, MediaDecoderStateMachine #1] WARNING: Decoder=7f2fe4d10800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 883, MediaDecoderStateMachine #1] WARNING: 7f3176c23a50 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 883, MediaDecoderStateMachine #1] WARNING: Decoder=7f2fc98bac00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 883, MediaDecoderStateMachine #1] WARNING: 7f2fca3c5a50 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 883, MediaDecoderStateMachine #1] WARNING: Decoder=7f2fc98bd000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 883, MediaDecoderStateMachine #1] WARNING: 7f2fca3c4c80 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 883, MediaDecoderStateMachine #1] WARNING: Decoder=7f2ff2baf400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 1941, MediaDecoderStateMachine #1] WARNING: 7f1266e8fe20 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1941, MediaDecoderStateMachine #1] WARNING: Decoder=7f142d778400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 1217, MediaDecoderStateMachine #1] WARNING: 7f17532a2710 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1217, MediaDecoderStateMachine #1] WARNING: Decoder=7f1766015800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 1217, MediaDecoderStateMachine #1] WARNING: 7f17460afa10 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1217, MediaDecoderStateMachine #1] WARNING: Decoder=7f174df9e800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 1217, MediaDecoderStateMachine #1] WARNING: 7f174b549640 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1217, MediaDecoderStateMachine #1] WARNING: Decoder=7f17702b8c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.3/v6s.js, line 40: TypeError: this.videoRef.current[e] is not a function
+Home directory not accessible: Permission denied
+[Child 1640, MediaDecoderStateMachine #1] WARNING: 7f15b1bfe300 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1640, MediaDecoderStateMachine #1] WARNING: Decoder=7f15cd9bb000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 1640, MediaDecoderStateMachine #1] WARNING: 7f15b8c8a460 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1640, MediaDecoderStateMachine #1] WARNING: Decoder=7f15c6d17c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 1640, MediaDecoderStateMachine #1] WARNING: 7f15b1bfe160 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1640, MediaDecoderStateMachine #1] WARNING: Decoder=7f15c449ac00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 1640, MediaDecoderStateMachine #1] WARNING: 7f15ab9cb1f0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 1640, MediaDecoderStateMachine #1] WARNING: Decoder=7f15e51e1400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891

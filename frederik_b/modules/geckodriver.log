@@ -1,0 +1,21 @@
+1607794421737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepqTQLS"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1607794423475	Marionette	INFO	Listening on port 42077
+1607794423543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4231 > eval line 1 > eval, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4231 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4231 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 2383, MediaDecoderStateMachine #1] WARNING: 7f1e95e506d0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 2383, MediaDecoderStateMachine #1] WARNING: Decoder=7f1e95451400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Home directory not accessible: Permission denied
+[Child 2383, MediaDecoderStateMachine #1] WARNING: 7f1e9507fd50 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 2383, MediaDecoderStateMachine #1] WARNING: Decoder=7f1e8ebf1000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1607794465492	Marionette	INFO	Stopped listening on port 42077
