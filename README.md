@@ -10,7 +10,7 @@ Binder link (plots bliver ikke rendered):
 Static link (med plots):
 https://nbviewer.jupyter.org/github/Frederiket1912/my_notebooks/blob/master/exam_presentation.ipynb
 
-****Selenium:****
+****Selenium:****  
 Link til [Demo](https://streamable.com/qxipj6)
 
 *Setup:*
@@ -18,24 +18,24 @@ Link til [Demo](https://streamable.com/qxipj6)
 You need to have installed below for it to work.
 Selenium, BeautifulSoup, Requests, Time, System and DateTime
 
-**Changes that needs to be made:**
-Line 24:
-Add your **twitch username**
-Line 25:
-Add your **twitch password**
-Line 27:
-Add your **GMAIL username**
-Line 28:
-Add your **GMAIL password**
+**Changes that needs to be made:**  
+Line 24:  
+Add your **twitch username**  
+Line 25:  
+Add your **twitch password**  
+Line 27:  
+Add your **GMAIL username**  
+Line 28:  
+Add your **GMAIL password**  
 
 ***Download and setup of chromedriver:***
-This file runs selenium **locally**
-Therefor in chrome check what version you're running.
+This file runs selenium **locally**  
+Therefor in chrome check what version you're running.  
 It can be found at the address "chrome://settings/help"
 
 After go to https://sites.google.com/a/chromium.org/chromedriver/downloads and download the according driver to your browser version.
 
-Unpack this file and save it somewhere locally.
+Unpack this file and save it somewhere locally.  
 **Change the path on line 47** to where the chromedriver.exe is saved.
 
 After that you can run the program.
