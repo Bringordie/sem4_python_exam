@@ -21,11 +21,11 @@ class twitch_app:
         self.base_url = "".join((self.base_url, streamer_name))
         self.vod_found = ""
 
-        self.TWITCH_USERNAME = ""
-        self.TWITCH_PASSWORD = ""
+        self.TWITCH_USERNAME = "sem4_python2020"
+        self.TWITCH_PASSWORD = "sem4pythonpasswordforTwitch."
 
-        self.GMAIL_USERNAME = ''
-        self.GMAIL_PASSWORD = ''
+        self.GMAIL_USERNAME = 'sem4python2020@gmail.com'
+        self.GMAIL_PASSWORD = 'sem4pythonpasswordforGmail.'
 
         self.failed_attempt_count = 0
 
@@ -145,7 +145,7 @@ class twitch_app:
             login_button2.click()
 
             #Manually overwriting
-            sleep(15)
+            sleep(25)
 
             ##Checking for verification
             verification_form = self.browser.find_element_by_css_selector('#modal-root-header')
