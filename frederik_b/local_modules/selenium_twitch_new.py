@@ -21,6 +21,14 @@ class twitch_app:
         self.base_url = "".join((self.base_url, streamer_name))
         self.vod_found = ""
 
+        self.TWITCH_USERNAME = "sem4_python2020"
+        self.TWITCH_PASSWORD = "sem4pythonpasswordforTwitch."
+
+        self.GMAIL_USERNAME = 'sem4python2020@gmail.com'
+        self.GMAIL_PASSWORD = 'sem4pythonpasswordforGmail.'
+
+        self.failed_attempt_count = 0
+
         stream_date_day = stream_date[:2]
         stream_date_month = stream_date[3:5]
         datetime_object = datetime.datetime.strptime(stream_date_month, "%m")
@@ -36,7 +44,7 @@ class twitch_app:
         self.vod_video_list = []
         self.twitch_pincode = ""
 
-        PATH = 'C:\Program Files (x86)\chromedriver.exe'
+        PATH = 'C:\\Program Files (x86)\\chromedriver.exe'
         self.browser = webdriver.Chrome(PATH)
 
         self.browser.get(self.base_url)
@@ -109,11 +117,6 @@ class twitch_app:
                 print('NO MATCH WAS FOUND')
 
     def login_to_account(self):
-        #Remove this
-        #sleep(10)
-        #
-        username = ""
-        password = ""
         try:
             ##Click login button
             login_button = self.browser.find_element_by_css_selector('#root > div > div.tw-flex.tw-flex-column.tw-flex-nowrap.tw-full-height > nav > div > div.tw-align-items-center.tw-flex.tw-flex-grow-1.tw-flex-shrink-1.tw-full-width.tw-justify-content-end > div.tw-flex.tw-full-height.tw-mg-r-1.tw-pd-y-1 > div > div.anon-user.tw-flex.tw-flex-nowrap > div:nth-child(1)')
@@ -124,12 +127,12 @@ class twitch_app:
             username_field = self.browser.find_element_by_id('login-username')
             if(username_field):
                 print('Username Field',username_field)
-            username_field.send_keys(username)
+            username_field.send_keys(self.TWITCH_USERNAME)
             
             password_field = self.browser.find_element_by_id('password-input')
             if(password_field):
                 print('Password Field',password_field)
-            password_field.send_keys(password)
+            password_field.send_keys(self.TWITCH_PASSWORD)
             
             ##Login
             login_button2 = self.browser.find_element_by_css_selector('body > div.ReactModalPortal > div > div > div > div > div > div.tw-border-radius-medium.tw-flex.tw-overflow-hidden > div > div > div.tw-mg-b-1 > form > div > div:nth-child(3) > button')
@@ -137,7 +140,7 @@ class twitch_app:
             login_button2.click()
 
             #Manually overwriting
-            sleep(25)
+            sleep(15)
 
             ##Checking for verification
             verification_form = self.browser.find_element_by_css_selector('#modal-root-header')
@@ -187,16 +190,13 @@ class twitch_app:
         print('User logged in:',username_loggedin)
     
     def get_pincode(self):
-        user = ''
-        password = ''
         imap_url = 'imap.gmail.com'
-
 
         # this is done to make SSL connnection with GMAIL 
         con = imaplib.IMAP4_SSL(imap_url) 
 
         # logging the user in 
-        con.login(user, password)  
+        con.login(self.GMAIL_USERNAME, self.GMAIL_PASSWORD)  
         
         # calling function to check for email under this label 
         con.select('Inbox')  
@@ -231,16 +231,15 @@ class twitch_app:
                     print("Error",e)
 
     def search(self, key, value, con):  
-        result, data = con.search(None, key, '"{}"'.format(value)) 
+        _, data = con.search(None, key, '"{}"'.format(value)) 
         return data 
-  
+
     # Function to get the list of emails under this label 
     def get_emails(self, result_bytes, con): 
         msgs = [] # all the email data are pushed inside an array 
         for num in result_bytes[0].split(): 
-            typ, data = con.fetch(num, '(RFC822)') 
+            _, data = con.fetch(num, '(RFC822)') 
             msgs.append(data) 
-    
         return msgs 
 
     def create_clip(self):
@@ -254,47 +253,18 @@ class twitch_app:
         new_timestamp_url = '{}?t={}h{}m{}s'.format(clean_url, stream_vod_hour, steam_vod_minute, stream_vod_seconds)
 
         self.browser.get(new_timestamp_url)
-        self.browser.implicitly_wait(3)
         print('CURRENT URL',self.browser.current_url)
 
         #Todo should check for mature blocker#
 
         #Clicking the CLIP button
+        self.browser.implicitly_wait(3)
         element=self.browser.find_element_by_xpath("//body")
         element.send_keys(Keys.ALT, 'x')
-
-        #Add title and publish
-        sleep(10)
-        # loader_checker = self.browser.find_element_by_css_selector('tw-block tw-border-bottom-left-radius-large tw-border-bottom-right-radius-large tw-border-top-left-radius-large tw-border-top-right-radius-large tw-font-size-5 tw-full-width tw-input tw-input--large tw-pd-l-1 tw-pd-r-1 tw-pd-y-05')
-        # print('Site has loaded',loader_checker)
-
-        # try:
-        #     self.browser.switch_to.window(self.browser.window_handles[1])
-        #     print(self.browser.current_url)
-        #     title_field = self.browser.find_element_by_id('cmgr-title-input')
-        #     title_field.send_keys("SEM4 Python")
-            
-        #     publish_button = self.browser.find_element_by_css_selector('#root > div > div > div > div.simplebar-scroll-content > div > div > main > div > div > div.tw-animation.tw-animation--duration-extra-long.tw-animation--fill-mode-both.tw-animation--slide-in-bottom.tw-animation--timing-ease-in-out > div > div:nth-child(2) > div:nth-child(2) > div.tw-align-items-center.tw-flex.tw-justify-content-between.tw-pd-t-1 > div > div > div > button')
-        #     print("publish button",publish_button)
-        #     publish_button.click()
-                
-
-
-        # except Exception as e:
-        #     exception_thrown = str(e)
-        #     exception_checker = "no such element: Unable to locate element:" in exception_thrown
-        #     if(exception_checker == True):
-        #         print("Username was found")
-        #     else:
-        #         #Will throw 'No account was found by this username'
-        #         #Gracefully close the browser before
-        #         print("Error",e)
-        #         sys.exit(e)
+        sleep(5)
 
     def clip_publish(self):
         #Add title and publish
-        #loader_checker = self.browser.find_element_by_css_selector('#root > div > div > div > div.simplebar-scroll-content > div > div > main > div > div > div.tw-animation.tw-animation--duration-extra-long.tw-animation--fill-mode-both.tw-animation--slide-in-bottom.tw-animation--timing-ease-in-out > div > div:nth-child(2) > div:nth-child(2) > div.tw-align-items-center.tw-flex.tw-justify-content-between.tw-pd-t-1 > div > div > div > button')
-        #print('Site has loaded',loader_checker)
         try:
             self.browser.switch_to.window(self.browser.window_handles[1])
             print(self.browser.current_url)
@@ -312,30 +282,24 @@ class twitch_app:
         #except Exception as e:
         except NoSuchElementException as e:
             exception_thrown = str(e)
-            print('TEST',exception_thrown)
-            # exception_checker = "no such element: Unable to locate element:" in exception_thrown
-            # count = 0
-            # if(exception_checker == True):
-            #     count = count + 1
-            #     if count > 5:
-            #         print('Something went wrong loading the publish page')
-            #         sys.exit(e)
-            #     print('Refreshing page and trying again',count)
-            #     self.browser.find_element_by_tag_name('body').send_keys(Keys.COMMAND +'r')
-            #     self.clip_publish()
-            # else:
-            #     #Will throw 'No account was found by this username'
-            #     #Gracefully close the browser before
-            #     print("Error",e)
-            #     sys.exit(e)
+            exception_checker = "no such element: Unable to locate element:" in exception_thrown
+            if(exception_checker == True):
+                self.failed_attempt_count += 1
+                if self.failed_attempt_count > 5:
+                    print('Something went wrong loading the publish page')
+                    sys.exit(e)
+                print('Refreshing page and trying again',self.failed_attempt_count)
+                self.browser.refresh()
+                sleep(5)
+                self.clip_publish()
+            else:
+                print("Error",e)
+                sys.exit(e)
 
     def close_browser(self):
         self.browser.quit()
         print("Browser closed")
 
-    
-
-    
 
 if __name__ == '__main__':
     #twitch = twitch_app("summit1g", "05/11-2020", "00:15:30")
@@ -348,4 +312,3 @@ if __name__ == '__main__':
     twitch.create_clip()
     twitch.clip_publish()
     #twitch.close_browser()
-
