@@ -15,8 +15,13 @@ Link til [Demo](https://streamable.com/qxipj6)
 
 *Setup:*
 
-You need to have installed below for it to work.
-Selenium, BeautifulSoup, Requests, Time, System and DateTime
+You need to have installed below locally for it to work.  
+Python and PIP installed.
+
+PIP installments:
+Selenium: `pip install selenium`  
+BeautifulSoup: `pip install beautifulsoup4`  
+Requests: `pip --user requests`  
 
 **Changes that needs to be made:**  
 Line 24:  
@@ -28,7 +33,7 @@ Add your **GMAIL username**
 Line 28:  
 Add your **GMAIL password**  
 
-***Download and setup of chromedriver:***
+***Download and setup of chromedriver:***  
 This file runs selenium **locally**  
 Therefor in chrome check what version you're running.  
 It can be found at the address "chrome://settings/help"
